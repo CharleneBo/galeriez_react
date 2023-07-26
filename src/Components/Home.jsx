@@ -18,6 +18,7 @@ const Home = () => {
                 <div>Shop</div>
                 <div>Aide</div>
             </div>
+            {/* animation choose galeriez header */}
             <div className="chooseGaleriez">
                 <div>
                     <div className="rainAnimated">Choose your galeriez</div>
