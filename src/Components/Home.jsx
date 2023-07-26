@@ -1,9 +1,9 @@
-import React, { useState, useEffect } from "react";
+// import React, { useState, useEffect } from "react";
 import logo from "./Images/galerie_logo.png";
 import oizo from "./Images/lumpy_bird_logo.png";
 import chat from "./Images/abradacabra.png";
 import dog from "./Images/dog.png";
-import { Link, useNavigate } from "react-router-dom";
+import { Link } from "react-router-dom";
 const Home = () => {
     return (
         // premier élément du header : titre and logo

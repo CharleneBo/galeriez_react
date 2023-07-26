@@ -10,10 +10,10 @@ function App() {
     <div className="App">
       <Router>
         <Routes>
-          <Route path="/" exact element={<Home />} />
-          <Route path="/Chat" exact element={<Chat />} />
-          <Route path="/Oizo" exact element={<Oizo />} />
-          <Route path="/VraiChat" exact element={<VraiChat />} />
+          <Route path="/galeriez_react/" exact element={<Home />} />
+          <Route path="/galeriez_react/Chat" exact element={<Chat />} />
+          <Route path="/galeriez_react/Oizo" exact element={<Oizo />} />
+          <Route path="/galeriez_react/VraiChat" exact element={<VraiChat />} />
         </Routes>
       </Router>
     </div>
